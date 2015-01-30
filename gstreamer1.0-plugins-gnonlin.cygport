@@ -1,7 +1,7 @@
 inherit gst-plugins
 
 NAME="gstreamer1.0-plugins-gnonlin"
-VERSION=1.2.0
+VERSION=1.4.0
 RELEASE=1
 CATEGORY="Video"
 SUMMARY="Non-linear plugin for the GStreamer multimedia framework"
